@@ -1,0 +1,70 @@
+header {
+    background:  #0d515e;
+
+    padding:20px 10px;
+}
+
+img {
+    width: 100px;
+   margin-left: -350px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: rgb(16, 179, 179);
+    text-decoration: underline;
+}
+
+body { 
+    background-color: #328F9C;
+  }
+
+  footer {
+    
+    text-align: center;
+    background: #0d515e;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.colegio {
+    width: 200px;
+    margin: 20px 0 0;
+}
+
+h2{
+    font-size: 50px;
+
+text-align: center;
+}
+
+p {
+    text-align: justify;
+    
+    font-size: 40px;
+}
+
